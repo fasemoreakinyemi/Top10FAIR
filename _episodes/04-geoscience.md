@@ -1,3 +1,15 @@
+---
+title: "Geoscience Top 10 FAIR Data Things"
+teaching: 0
+exercises: 0
+questions:
+- "Key question"
+objectives:
+- "First objective."
+keypoints:
+- "First key point."
+---
+
 # Geoscience Top 10 FAIR data things
 Version 1.0 (9 December 2018)
 
