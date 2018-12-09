@@ -1,5 +1,5 @@
 ---
-title: "Geoscience Top 10 FAIR Data Things"
+title: "Geoscience"
 teaching: 0
 exercises: 0
 questions:
