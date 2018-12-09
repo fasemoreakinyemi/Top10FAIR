@@ -2,38 +2,61 @@
 Version 1.0 (9 December 2018)
 
 **Audience**: Researchers
+
 **Sprinters**: John Brown, [Janice Chan](https://github.com/icecjan/), Niamh Quigley (Curtin University, Perth, Western Australia)
 
 Thing 1: Data sharing and discovery
+
 Thing 2: Long-lived data: curation & preservation
+
 Thing 3: Data citation for access & attribution
+
 Thing 4: DOIs and citation metrics
+
 Thing 5: Licensing data for reuse
+
 Thing 6: Vocabularies for data description
+
 Thing 7: Identifiers and linked data
+
 Thing 8: What are publishers & funders saying about data?
+
 Thing 9: Exploring APIs and Apps
+
 Thing 10: Spatial data
 
 ## Findable
+
 Thing 1: Data sharing and discovery
+
 Thing 6: Vocabularies for data description
+
 Thing 7: Identifiers and linked data
+
 Thing 10: Spatial data
 
 ## Accessible
+
 Thing 2: Long-lived data: curation & preservation
+
 Thing 3: Data citation for access & attribution
+
 Thing 4: DOIs and citation metrics
 
 ## Interoperable
+
 Thing 4: DOIs and citation metrics
+
 Thing 6: Vocabularies for data description
+
 Thing 7: Identifiers and linked data
+
 Thing 9: Exploring APIs and Apps
 
 ## Reusable
+
 Thing 5: Licensing data for reuse
+
 Thing 8: What are publishers & funders saying about data?
 
 ## Thing 1: Data sharing and discovery
@@ -346,10 +369,10 @@ The [Open Geospatial Consortium (OGC)](http://www.opengeospatial.org/) is an int
 
 ## References:
 
-**ANDS 23 (Research Data) Things** 
+ANDS 23 (Research Data) Things
 [https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23)
 
-**10 Eco Data Things** [https://www.ands.org.au/__data/assets/pdf_file/0003/1376121/10-Eco-Data-Things_handout.pdf](https://www.ands.org.au/__data/assets/pdf_file/0003/1376121/10-Eco-Data-Things_handout.pdf)
+10 Eco Data Things [https://www.ands.org.au/__data/assets/pdf_file/0003/1376121/10-Eco-Data-Things_handout.pdf](https://www.ands.org.au/__data/assets/pdf_file/0003/1376121/10-Eco-Data-Things_handout.pdf)
 
 
 <!--stackedit_data:
