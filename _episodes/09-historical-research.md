@@ -1,3 +1,15 @@
+---
+title: "Historical Research"
+teaching: 0
+exercises: 0
+questions:
+- "Key question"
+objectives:
+- "First objective."
+keypoints:
+- "First key point."
+---
+ 
  
 ## Top 10 FAIR Things for the Humanities: Historical Research
   
