@@ -1,3 +1,15 @@
+---
+title: "International Relations"
+teaching: 0
+exercises: 0
+questions:
+- "Key question"
+objectives:
+- "First objective."
+keypoints:
+- "First key point."
+---
+
 # 10 FAIR Things for International Relations
 ---
 ### What is FAIR data?
