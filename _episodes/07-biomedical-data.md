@@ -1,3 +1,16 @@
+---
+title: "Biomedical Data Producers, Stewards, and Funders"
+teaching: 0
+exercises: 0
+questions:
+- "Key question"
+objectives:
+- "First objective."
+keypoints:
+- "First key point."
+---
+
+
 ## Top 10 FAIR Things for Biomedical Data Producers, Stewards, and Funders
 
 
