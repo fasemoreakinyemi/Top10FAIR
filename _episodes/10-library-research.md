@@ -1,3 +1,15 @@
+---
+title: "Library Research"
+teaching: 0
+exercises: 0
+questions:
+- "Key question"
+objectives:
+- "First objective."
+keypoints:
+- "First key point."
+---
+
 
 **Sprinters:**
 Liz, Natasha, Chris, Sharyn, Tom, Josh Quan, Scott Peterson, Amy Neeser
