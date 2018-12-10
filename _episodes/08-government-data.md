@@ -1,3 +1,15 @@
+---
+title: "Australian Government Data/Collections"
+teaching: 0
+exercises: 0
+questions:
+- "Key question"
+objectives:
+- "First objective."
+keypoints:
+- "First key point."
+---
+
 
 # 10 FAIR Things for Australian Government Data/Collections 
 
