@@ -9,11 +9,13 @@ objectives:
 keypoints:
 - "First key point."
 ---
- 
- 
+
+
 ## Top 10 FAIR Things for the Humanities: Historical Research
   
-This document offers a concise overview of the ten topics that are most essential for scholars in the field of historical research who aim to publish their data set in accordance with the FAIR principles. In historical research, research data mostly consists of databases (spreadsheets, relational databases), text corpora, images, sound recordings or video materials. 
+This document offers a concise overview of the ten topics that are most essential for scholars in the field of historical research who aim to publish their data set in accordance with the FAIR principles. In historical research, research data mostly consists of databases (spreadsheets, relational databases), text corpora, images, sound recordings or video materials.  
+
+Authors/Contributors: Kristina Hettne (CDS), Peter Verhaar (CDS), Ben Companjen (CDS, reviewer), Laurents Sesink (CDS, reviewer), Fieke Schoots (CDS, reviewer), Erik Schultes (GO FAIR, reviewer), Rajaram Kaliyaperumal (LUMC, reviewer), Erzsebet Toth-Czifra (DARIAH, reviewer), Ricardo de Miranda Azevedo (Maastricht University, reviewer).  
 
 # Findable
 To ensure that data sets can be found, scholars need to deposit their data sets and all the associated metadata in a repository which assigns persistent identifiers.
