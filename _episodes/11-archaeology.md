@@ -1,4 +1,16 @@
- Sprint: Deidre Whitmore, Tim Dennis 
+---
+title: "Archaeology"
+teaching: 0
+exercises: 0
+questions:
+- "Key question"
+objectives:
+- "First objective."
+keypoints:
+- "First key point."
+---
+
+ Sprint: Deidre Whitmore, Tim Dennis
 
 # Introduction
 This guide brings concepts surrounding FAIR data principles and the 23 (research data ) Things program to the archaeological research domain with the aim of fostering better data practices and stewardship throughout the discipline.
@@ -35,15 +47,15 @@ Map out the lifecycle of data on your most recent project. What processes and wo
 *Challenge me*
 Read ‘Project Documentation’ and 'Project Metadata’  in the Digital Antiquity Guides to Good Practice
 Draft documentation for your most recent project or a forthcoming project. Include information about the background, methodology employed or to be employed, a narrative on the site and its context (historically, archaeologically, culturally, etc). This documentation will not only facilitate the eventual dissemination of your data but also any proposals or publications about the work itself.
-Review the metadata for this project, document in a single location what metadata you currently record or plan to record and compare it to the metadata tables at http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2. Are you missing any Project Metadata? File-Level Metadata (general and technical)? How can you fill in any gaps? 
+Review the metadata for this project, document in a single location what metadata you currently record or plan to record and compare it to the metadata tables at http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2. Are you missing any Project Metadata? File-Level Metadata (general and technical)? How can you fill in any gaps?
 ## Thing 2: Preservation
 *Getting started*
-Browse the websites for archaeological data repositories and preservation services (Archaeology Data Service, tDAR, Open Context). 
+Browse the websites for archaeological data repositories and preservation services (Archaeology Data Service, tDAR, Open Context).
 Identify which service(s) contain data of interest to your work. Get familiar searching the services.
-Read ‘Why Deposit Data’ (http://archaeologydataservice.ac.uk/deposit/Why.xhtml) and consider what is significant about your data, what requirements you need to meet, and which reasons resonate with your work and beliefs. 
+Read ‘Why Deposit Data’ (http://archaeologydataservice.ac.uk/deposit/Why.xhtml) and consider what is significant about your data, what requirements you need to meet, and which reasons resonate with your work and beliefs.
 *Learn more*
-Dig into the deposit instructions and criteria for each repository and service and identify which is the best fit for your own data. 
-Contact the service and discuss your project and data with them. Document their recommendations and determine how you can update your current workflow to support deposit. 
+Dig into the deposit instructions and criteria for each repository and service and identify which is the best fit for your own data.
+Contact the service and discuss your project and data with them. Document their recommendations and determine how you can update your current workflow to support deposit.
 *Challenge me*
 Select a dataset you can deposit and go through the process of depositing in a repository
 ## Thing 3: Training and guides
@@ -66,7 +78,7 @@ Ask a data librarian or specialist at your institution to review your DMP.
 Learn more about metadata schema, controlled vocabularies and why describing data is a good practice. Read ‘What are Metadata Standards’ from the Digital Curation Center (http://www.dcc.ac.uk/resources/briefing-papers/standards-watch-papers/what-are-metadata-standards) and ‘Preparing Datasets - Metadata’ from ADS (http://archaeologydataservice.ac.uk/advice/PreparingDatasets.xhtml#Metadata0
 Consider your current metadata practices- do they follow any schema or incorporate any vocabularies? Are your metadata fields described and documented explicitly?
 *Learn more*
-Review some of the vocabularies and thesauri related to archaeological data including Getty Vocabularies (http://www.getty.edu/research/tools/vocabularies/index.html), Perio.dO (http://perio.do/en/), 
+Review some of the vocabularies and thesauri related to archaeological data including Getty Vocabularies (http://www.getty.edu/research/tools/vocabularies/index.html), Perio.dO (http://perio.do/en/),
 Consider whether these vocabularies could be incorporated into your data practices and workflow
 *Challenge me*
 Create a data dictionary (metadata field, type, definition, controlled vocabulary status) for a current or future project based on the metadata recommendations in the Guides to Good Practice.
