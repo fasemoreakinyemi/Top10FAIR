@@ -18,6 +18,8 @@ Anna-Lena Lamprecht, [Carlos Martinez Ortiz](https://github.com/c-martinez), [Ch
 ## Brief description:
 The [FAIR data principles](https://www.go-fair.org/fair-principles/) are widely known and applied today. What the FAIR principles mean for (scientific) software is an ongoing discussion. However, there are some things on which there is already agreement that they will make software (more) FAIR. In this document, we go for some ‘low hanging fruit’ and describe 10 easy FAIR software things that you can do. To limit the scope, “software” here refers to scripts and packages in languages like R and Python, but not to other kinds of software frequently used in research, such as web-services, web platforms like myexperiment.org or big clinical software suites like OpenClinica.
 
+A [poster](/files/poster_10things_FAIRsoftware.pdf) summarizing these 10 FAIR software things is also available.
+
 ## Audience:
 * Researchers who develop software
 * [Research Software Engineers](https://researchsoftware.org)
@@ -32,7 +34,7 @@ In the context of this document, we use the following simple definition of FAIR 
 Software with sufficiently rich metadata and unique persistent identifier
 
 **Accessible**
-Software metadata is in machine and human readable format. 
+Software metadata is in machine and human readable format.
 Software and metadata is deposited in trusted community approved repository.
 
 **Interoperable**
@@ -41,7 +43,7 @@ Software uses community accepted standards and platforms, making it possible for
 **Reusable**
 Software has clear licence and documentation
 
-# Things 
+# Things
 ## Findability things
 ### Thing 1  - Create a description of your software
 The name alone does not tell people much about your software. In order for other people to find out if they can use it for their purpose, they need to know what it does. A good description of your software will also help other people to find it.
@@ -78,7 +80,7 @@ Unique means that the identifier will point on and only version and location of 
 Persistent means that it will pointing to the same version and location for long, specified amount of time. For example Zenodo provides you with a DOI (Digital Object Identifier) that will be resolvable for at least the next 20 years.
 
 *Activity*:
-If you have registered your software in a registry, chances are good that they provide a unique and persistent identifier. If not, obtain an identifier from another organisation. If you have multiple identifiers, choose one that you use as your main identifier. Make sure you use it consistently when referring to your software, e.g. on your own website, code repository or in publications. 
+If you have registered your software in a registry, chances are good that they provide a unique and persistent identifier. If not, obtain an identifier from another organisation. If you have multiple identifiers, choose one that you use as your main identifier. Make sure you use it consistently when referring to your software, e.g. on your own website, code repository or in publications.
 
 [Making your code citable with Zenodo](https://guides.github.com/activities/citable-code/)
 
@@ -92,11 +94,11 @@ In order for anyone to use your software, they need to be able to download an ex
 ## Interoperability Things
 
 ### Thing 5 - Explain the functionality of your software
-Your software performs one or more operations that take an input and transform it into the output. To help people use your software, provide a clear and concise description of the operations along with the corresponding input and output data types. For example, the [``wc``](http://man7.org/linux/man-pages/man1/wc.1.html) (word count) command line tool takes a text as input, counts the number of words in it and gives the number of words as output. The [``ClustalW``](https://www.genome.jp/tools-bin/clustalw) tool takes a set of (gene or protein) sequences as input, aligns them and returns a multiple sequence alignment as output. 
+Your software performs one or more operations that take an input and transform it into the output. To help people use your software, provide a clear and concise description of the operations along with the corresponding input and output data types. For example, the [``wc``](http://man7.org/linux/man-pages/man1/wc.1.html) (word count) command line tool takes a text as input, counts the number of words in it and gives the number of words as output. The [``ClustalW``](https://www.genome.jp/tools-bin/clustalw) tool takes a set of (gene or protein) sequences as input, aligns them and returns a multiple sequence alignment as output.
 
-**Activity**: List all operations that your software provides, and describe them along with corresponding input and output data types. If possible, use terms from a domain ontology like EDAM. 
+**Activity**: List all operations that your software provides, and describe them along with corresponding input and output data types. If possible, use terms from a domain ontology like EDAM.
 
-### Thing 6 - Use standard (community agreed) formats for inputs and outputs 
+### Thing 6 - Use standard (community agreed) formats for inputs and outputs
 In order for people to use your software, they need to know how to feed data to it -- standard formats are easy ways to exchange data between different pieces of software. By sticking to standards it is possible to use the output from another piece of software as an input to your software (or the other way around). For example, FASTA is a format for representing molecular sequences (DNA, RNA, protein, …) that most sequence analysis tools can handle. NetCDF is a standard file format used sharing of array-oriented scientific data.
 
 **Activity**: What are the relevant standards in your field? Which are the groups/organizations that are responsible for standards in your field? Is there a place where you can find the relevant standards and a detailed description? What other tools use these standards? If possible, use such standard formats as input/output of your software and state which you are using. (Avoid to define your own standards! http://imgs.xkcd.com/comics/standards.png)
@@ -111,7 +113,7 @@ Your software should include sufficient documentation: instructions on how to in
 
 ### Thing 8 - Give your software a license
 
-A license tells your (potential) users what they are allowed to do with your software (and what not to do), and can protect your intellectual property. Without a license people may spend time trying to figure out if they are allowed to use your software -- make things easy for them. Therefore it is important that you choose a software license that meets your intentions. [Choose a license website](https://choosealicense.com/) provides a simple guide for picking the right license for your software. 
+A license tells your (potential) users what they are allowed to do with your software (and what not to do), and can protect your intellectual property. Without a license people may spend time trying to figure out if they are allowed to use your software -- make things easy for them. Therefore it is important that you choose a software license that meets your intentions. [Choose a license website](https://choosealicense.com/) provides a simple guide for picking the right license for your software.
 
 **Activity**:
 * Follow [the 4OSS lesson](https://softdev4research.github.io/4OSS-lesson/03-use-license/index.html) to learn more about licenses and their implications.
