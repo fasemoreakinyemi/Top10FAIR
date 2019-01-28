@@ -143,11 +143,12 @@ data repositories: https://www.re3data.org/browse/by-subject/
 
 ### Thing 5: Bioschema.org
 
-Bioschemas aims to improve data interoperability in life sciences. 
-It does this by encouraging people in life science to use schema.org markup, 
+Bioschemas aims to improve data interoperability in life science. 
+It does this by encouraging people to use schema.org markup, 
 so that their websites and services contain consistently structured information. 
 This structured information then makes it easier to discover, collate and analyse distributed data.
 
+Exercises can be found on the Bioschema website under "tutorials" and "how to".
 https://bioschemas.gitbook.io/training-portal/
 
 
