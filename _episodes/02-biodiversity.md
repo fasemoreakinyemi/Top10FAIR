@@ -90,8 +90,8 @@ https://sandbox.zenodo.org/
 
 Questions: 
 1) Which metadata field do you have to add when uploading data and why? 
-2) Which field are mandatory and which once are not. 
-3) Which identifiers can you use. 
+2) Which field are mandatory and which once are not? 
+3) Which identifiers can you use? 
 
 Todo: Screenshot of the upload form explaining some of the fields.
 
