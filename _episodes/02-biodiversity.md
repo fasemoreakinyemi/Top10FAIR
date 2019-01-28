@@ -165,7 +165,8 @@ http://www.dcc.ac.uk/resources/how-guides/license-research-data
 #### Exercise:
 1) Use the link below to select the appropriate licence with the follow intentions,
 2) Allow your work to be adapted and also allow it to be used commercially
-- https://creativecommons.org/choose
+
+https://creativecommons.org/choose
 
 
 ### Thing 7: Availability via torrents
@@ -183,6 +184,7 @@ The Magnet URI scheme defines the format of magnet links, a de facto standard fo
 Using Magnet URI scheme directly on the publication will make all the data accessible. 
 
 http://academictorrents.com/
+
 https://en.wikipedia.org/wiki/Magnet_URI_scheme
 
 #### Exercise:
