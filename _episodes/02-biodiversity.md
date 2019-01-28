@@ -112,7 +112,7 @@ Go to Wikidata and find the publication date of the book “On the origin of spe
 
 ### Thing 4: Registry of research Data Repositories (re3data)
 
-This project aims to accelerate scientific discovery and enhance the integrity, 
+This project aims to accelerate scientific discovery and enhance integrity, 
 transparency, and reproducibility of data.
 To enable FAIR data sharing, data need to be deposited in 
 a repository that is taking steps to make data as open and FAIR as possible.
