@@ -127,12 +127,12 @@ https://www.re3data.org/browse/by-subject/
 
 #### Exercise:
 1) How many entries are returned for the a query specific for your research topic on re3data https://www.re3data.org?
-2) If you filter under subject what do you find?
+2) If you filter under "Subjects" what do you find?
 3) Do you think something is missing from the results?
 4) Please try to submit a missing repository
 
 
-Try the Browse by Subject entry to the re3data-database 
+Try the "browse by subject" entry to the re3data-database 
 since this gives a great overview on the wide landscape of research 
 data repositories: https://www.re3data.org/browse/by-subject/
 
