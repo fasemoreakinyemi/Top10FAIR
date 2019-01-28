@@ -211,6 +211,7 @@ https://www.elixir-europe.org/platforms/interoperability
 It provides a resource for different resources to be integrated into single platform
 
     http://bio2rdf.org/
+    
     https://www.ncbi.nlm.nih.gov/pubmed/18472304
 
 - GFBio is the authoritative, national contact point for issues concerning the management and standardisation of biological and environmental research data during the entire data life cycle (from acquisition to archiving and data publication). GFBio mediates expertises and services between the GFBio data centers and the scientific community, covering all areas of research data management.
